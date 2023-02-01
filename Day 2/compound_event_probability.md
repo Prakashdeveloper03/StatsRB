@@ -1,5 +1,3 @@
-Link to task: [Compound Event Probability](https://www.hackerrank.com/challenges/s10-mcq-3/problem)
-
 ### Task:
 There are **3** urns labeled **X**, **Y**, and **Z**.
 - Urn **X** contains **4** red balls and **3** black balls.

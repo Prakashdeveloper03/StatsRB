@@ -1,5 +1,3 @@
-Link to task: [Basic Probability](https://www.hackerrank.com/challenges/s10-mcq-1/problem)
-
 ### Task:
 In a single toss of **2** fair (_evenly-weighted_) six-sided dice, find the probability that their sum will be at most **9**.
 
