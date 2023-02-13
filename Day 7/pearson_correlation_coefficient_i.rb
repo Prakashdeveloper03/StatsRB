@@ -13,4 +13,4 @@ mu_y = y.reduce(:+) / n
 std_y = get_std(y, mu_y, n)
 
 coef = (0...n).reduce(0) { |sum, i| sum + (x[i] - mu_x) * (y[i] - mu_y) } / (n * std_x * std_y)
-puts '%.3f' % coef
+puts "%.3f" % coef

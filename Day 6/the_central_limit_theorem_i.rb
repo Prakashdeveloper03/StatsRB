@@ -1,4 +1,3 @@
-
 x, n, mu, sigma = 9800, 49, 205, 15
 mu_sum = n * mu
 sigma_sum = Math.sqrt(n) * sigma
